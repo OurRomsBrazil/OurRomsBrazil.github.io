@@ -1,0 +1,15 @@
+#principal{
+    margin-left: 40%;
+}
+
+#options{
+    padding: 2px;
+    margin-left:20%;
+    border-style: solid;
+    width: 65%;
+    border-radius: 20px;
+}
+
+a{
+    text-decoration: none;
+}
